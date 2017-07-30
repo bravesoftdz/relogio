@@ -1,5 +1,5 @@
-# Relógio<br>
-Configurable clock
+# Relógio
+Configurable clock<br>
 ![Screen](/screenshot.png)
 # Compile Instructions
 Lazarus recomended <br>
