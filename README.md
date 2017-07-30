@@ -1,4 +1,4 @@
-# relogio
+# Relógio
 Configurable clock
 ![Screen](/screenshot.png)
 # Compile Instructions
